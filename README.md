@@ -10,7 +10,7 @@ Applying a EDA  and applying Machine Learning Algorithms to predict the Global S
 <h1 align="center">
   Table of Contents
 </h1>
-1. Data Cleaning.     
+1. Data Cleaning.                                    
 2. EDA.      
 3. Preprocessing.      
 4. Modeling.      
